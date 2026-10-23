@@ -1,1 +1,15 @@
-/target
+/target/
+*.exe
+*.pdb
+*.bin
+*.elf
+.zed/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.local
